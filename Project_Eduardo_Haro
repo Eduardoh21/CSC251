@@ -1,0 +1,8 @@
+import java.util.Scanner;
+
+public class CSC251Project 
+{
+   public static void main(String[] args)
+   {
+      Scanner keyboard = new Scanner(System.in);//creating a Scanner object
+      String policyNumber, providerName, firstName, lastName, age, height, weight;
